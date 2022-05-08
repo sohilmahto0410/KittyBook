@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KittyBook/static/css/main.b91e297d.css",
-    "main.js": "/KittyBook/static/js/main.0b56f30f.js",
+    "main.js": "/KittyBook/static/js/main.f3c28fcd.js",
     "static/js/787.2c070b90.chunk.js": "/KittyBook/static/js/787.2c070b90.chunk.js",
     "index.html": "/KittyBook/index.html",
     "main.b91e297d.css.map": "/KittyBook/static/css/main.b91e297d.css.map",
-    "main.0b56f30f.js.map": "/KittyBook/static/js/main.0b56f30f.js.map",
+    "main.f3c28fcd.js.map": "/KittyBook/static/js/main.f3c28fcd.js.map",
     "787.2c070b90.chunk.js.map": "/KittyBook/static/js/787.2c070b90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b91e297d.css",
-    "static/js/main.0b56f30f.js"
+    "static/js/main.f3c28fcd.js"
   ]
 }
